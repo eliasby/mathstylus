@@ -2,6 +2,8 @@
 
 Math formula visualizer.
 
+![](./assets/recording.gif)
+
 ## Getting Started
 
 Install Node.js:
