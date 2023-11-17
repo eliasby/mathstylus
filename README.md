@@ -1,7 +1,5 @@
 # Mathstylus
 
-Math formula visualizer.
-
 ![](./assets/recording.gif)
 
 ## Getting Started
@@ -24,6 +22,6 @@ yarn start
 
 ## Licensing
 
-Math Stylus is released under the [MIT](LICENSE) license.
+Mathstylus is released under the [MIT](LICENSE) license.
 
-When contributing to Math Stylus, you can find the relevant license in the comments at the top of each file.
+When contributing to Mathstylus, you can find the relevant license in the comments at the top of each file.
