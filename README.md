@@ -1,4 +1,4 @@
-# Math Stylus
+# Mathstylus
 
 Math formula visualizer.
 
