@@ -1,12 +1,10 @@
 # Mathstylus
 
+Math Formula Visualizer.
+
 ![](./assets/recording.gif)
 
 ## Getting Started
-
-Install Node.js:
-
-https://nodejs.org/en/download/
 
 Install dependencies:
 
