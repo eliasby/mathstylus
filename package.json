@@ -1,18 +1,12 @@
 {
-  "name": "math-stylus",
+  "name": "mathstylus",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "author": {
-    "name": "(Elias) Anass Bouassaba",
-    "email": "me@bouassaba.com",
-    "url": "https://bouassaba.com"
-  },
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
-    "prepare": "husky install"
+    "build": "parcel build"
   },
   "dependencies": {
     "@chakra-ui/react": "1.8.8",
@@ -25,19 +19,15 @@
     "react-dom": "17.0.2",
     "react-redux": "8.0.0",
     "react-textarea-autosize": "8.3.3",
+    "redux": "4.2.1",
     "uuid": "8.3.2"
   },
   "devDependencies": {
     "@types/react": "18.0.5",
     "@types/react-dom": "18.0.1",
     "@types/uuid": "8.3.4",
-    "husky": "7.0.4",
-    "lint-staged": "12.3.8",
     "parcel": "2.4.1",
     "prettier": "2.6.2",
     "process": "0.11.10"
-  },
-  "lint-staged": {
-    "**/*": "prettier --write --ignore-unknown"
   }
 }
