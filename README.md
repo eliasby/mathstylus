@@ -1,6 +1,6 @@
 # Mathstylus
 
-Math Formula Visualizer.
+Mathematical formula visualizer.
 
 ![](./assets/recording.gif)
 
