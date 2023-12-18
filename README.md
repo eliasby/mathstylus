@@ -1,7 +1,5 @@
 # Mathstylus
 
-Mathematical Formula Visualizer.
-
 ![](./assets/recording.gif)
 
 ## Getting Started
